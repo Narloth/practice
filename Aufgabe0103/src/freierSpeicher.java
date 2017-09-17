@@ -1,4 +1,4 @@
-//Author: Eva D. Gergely
+//Author: Narloth
 //Dateiname: Aufgabe0103.java
 //Berechnung des freien Speichers vor und nach dem Aufruf des Garbage Collectors
 

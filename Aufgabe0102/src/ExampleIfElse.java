@@ -1,4 +1,4 @@
-//Author: Eva D. Gergely
+//Author: Narloth
 //Dateiname: ExampleIfElse.java
 //Umschreibung der vorgegebenen if-else Abfrage in eine switch-case Abfrage
 

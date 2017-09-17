@@ -1,4 +1,4 @@
-//Author: Eva D. Gergely
+//Author: Narloth
 //Dateiname: ExampleWhile.java
 //Umschreibung der vorgegebenen while Schleife in eine do while Schleife
 

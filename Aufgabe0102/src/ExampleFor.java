@@ -1,4 +1,4 @@
-//Author: Eva D. Gergely
+//Author: Narloth
 //Dateiname: ExampleFor.java
 //Umschreibung der vorgegebenen for Schleife in eine for-each Schleife
 
